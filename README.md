@@ -6,9 +6,9 @@ This analysis is an audit of the election results that were provided in a csv. f
 ## Results
 Below are the overall results from the Jefferson, Denver, and Arapahoe county elections. Please refer to the below image of the txt file results.
 * There were 369,711 votes cast in this congressional election.
-* Jefferson county received 38,855 votes (10.5%), Denver county received 306,055 votes (82.8%) and Arapahoe received 24,801 votes (6.7%)
+* Jefferson county received 38,855 votes (10.5%), Denver county received 306,055 votes (82.8%) and Arapahoe received 24,801 votes (6.7%).
  * Denver county had the largest number of votes at 306,055, or 82.8% of all the votes.
-* Charles Casper Stockham received  23.0%  (85,213) of the votes, Diana DeGette  received  73.8% (272,892)  of the votes and Raymon Anthony Doane received  3.1% (11,606)  of the votes.  
+* Charles Casper Stockham received  23.0%  (85,213) of the votes, Diana DeGette  received  73.8% (272,892)  of the votes, and Raymon Anthony Doane received  3.1% (11,606)  of the votes.  
 * Diana DeGette  won the election having received  73.8% or 272,892 total votes .
 ![election_analysis_txt_output](https://user-images.githubusercontent.com/85718354/125200361-bc4ad980-e238-11eb-96c0-28c4108bc3b5.JPG)
 ## Election Audit Summary
