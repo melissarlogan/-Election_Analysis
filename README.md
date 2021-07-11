@@ -12,7 +12,7 @@ Below are the overall results from the Jefferson, Denver, and Arapahoe county el
 * Diana DeGette  won the election having received  73.8% or 272,892 total votes .
 ![election_analysis_txt_output](https://user-images.githubusercontent.com/85718354/125200361-bc4ad980-e238-11eb-96c0-28c4108bc3b5.JPG)
 ## Election Audit Summary
-This script is written in a way that allows for growth making it possible to be used for any election results in any state. Once the csv. is updated, or a new csv is added- it will comb through the data to review and will present the same results as the above (results by the total countifies and candidates) . This would be done in the below section of the script.
+This script is written in a way that allows for growth making it possible to be used for any election results in any state. Once the csv. is updated, or a new csv is added- it will comb through the data to review and will present the same results as the above (results by the total counties and candidates) . This would be done in the below section of the script.
 ```
 import csv
 import os
