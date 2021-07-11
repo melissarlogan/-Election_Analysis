@@ -3,6 +3,7 @@
 ## Purpose
 
 ## Results
+![election_analysis_txt_output](https://user-images.githubusercontent.com/85718354/125200361-bc4ad980-e238-11eb-96c0-28c4108bc3b5.JPG)
 
 * Number of votes cast in this congressional election?
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -16,4 +17,3 @@ how this script can be used—with some modifications—for any election. Give a
 ### Potential Modifications For Other Elections
 1.
 2.
-[election_analysis.txt](https://github.com/melissarlogan/-Election_Analysis/files/6797146/election_analysis.txt)
