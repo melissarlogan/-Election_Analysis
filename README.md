@@ -16,3 +16,4 @@ how this script can be used—with some modifications—for any election. Give a
 ### Potential Modifications For Other Elections
 1.
 2.
+[election_analysis.txt](https://github.com/melissarlogan/-Election_Analysis/files/6797146/election_analysis.txt)
